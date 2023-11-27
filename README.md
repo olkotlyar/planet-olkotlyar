@@ -21,6 +21,9 @@
 **Development steps** (we extend the program with iterations)
 
 -Earth-sun system
+
 -Add Jupiter
+
 -Make modular
+
 -Add more planets?
