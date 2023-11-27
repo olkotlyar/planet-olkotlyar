@@ -22,8 +22,14 @@
 
 -Earth-sun system
 
+
+
 -Add Jupiter
 
+
+
 -Make modular
+
+
 
 -Add more planets?
